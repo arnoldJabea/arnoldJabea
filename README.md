@@ -16,7 +16,7 @@
       </p>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/64235641">
+      <img src="https://avatars.githubusercontent.com/u/118946596">
     </td>
   </tr>
 </table>
